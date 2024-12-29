@@ -41,5 +41,5 @@ if __name__ == "__main__":
     while True:
         user_input = input("Я: ")
 
-        reply, dialog_history = chat_with_ai(user_input, dialog_history)
+        reply, dialog_history = chat(user_input, dialog_history)
         print(f"widdle-alpha: {reply}")
