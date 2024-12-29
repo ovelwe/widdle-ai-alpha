@@ -1,2 +1,4 @@
-# widdle-ai-alpha
-test chat-bot on python
+# How to run
+
+pip install -r requirements.txt
+python main.py
